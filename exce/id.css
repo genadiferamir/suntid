@@ -1,0 +1,5 @@
+$animationName: myAnimation;
+
+.element {
+  animation-name: #{$animationName};
+}
